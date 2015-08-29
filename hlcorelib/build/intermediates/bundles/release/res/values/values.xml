@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/hl0395/Documents/FoodBankWorkspace/FoodBank/hlcorelib/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="brick_red">#E94F35</color>
+    <color name="pin_light_gray_50">#55CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/home/hl0395/Documents/FoodBankWorkspace/FoodBank/hlcorelib/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">HLCoreLib</string>
+</resources>
